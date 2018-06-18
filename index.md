@@ -7,9 +7,9 @@ A Tour Agency in [Jaipur, Rajasthan](https://en.wikipedia.org/wiki/Jaipur).
 I provide tour services to following areas
 
 ```markdown
-# Jaipur
-# Agra
-# Delhi
+**Jaipur
+Agra
+Delhi**
 ```
 
 ### Contact
